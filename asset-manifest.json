@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/creative_ageny_react_website/static/css/main.57ff03ca.css",
-    "main.js": "/creative_ageny_react_website/static/js/main.a24faf60.js",
+    "main.js": "/creative_ageny_react_website/static/js/main.78d60e3c.js",
     "static/media/port1.jpeg": "/creative_ageny_react_website/static/media/port1.f56364e3f9aff905b0a7.jpeg",
     "static/media/port2.jpeg": "/creative_ageny_react_website/static/media/port2.372350f026054b39dd02.jpeg",
     "static/media/port4.jpg": "/creative_ageny_react_website/static/media/port4.067113aa5991ef03a0ec.jpg",
     "static/media/port5.jpg": "/creative_ageny_react_website/static/media/port5.e5083a354cfaf3bdaffc.jpg",
     "static/media/port7.jpg": "/creative_ageny_react_website/static/media/port7.be183218c0d18e094658.jpg",
     "static/media/port6.jpg": "/creative_ageny_react_website/static/media/port6.e0399b51bf3cd4e9f7b1.jpg",
-    "static/media/p2.jpg": "/creative_ageny_react_website/static/media/p2.2f0a8307f0fba3deebc0.jpg",
     "static/media/creative-design.webp": "/creative_ageny_react_website/static/media/creative-design.6b93980f97324bc379cd.webp",
     "static/media/port3.jpeg": "/creative_ageny_react_website/static/media/port3.ddd07d55225082241bfc.jpeg",
+    "static/media/p3.jpg": "/creative_ageny_react_website/static/media/p3.2590dfb11b1eefc38cdf.jpg",
     "static/media/services.webp": "/creative_ageny_react_website/static/media/services.71cc8ef7d5c4bfc9f19e.webp",
     "static/media/header2.jpg": "/creative_ageny_react_website/static/media/header2.de71099bec80294ae2b3.jpg",
     "static/media/justStand.jpg": "/creative_ageny_react_website/static/media/justStand.462fc1ae3e047e814b15.jpg",
@@ -22,10 +22,10 @@
     "static/media/interface34.svg": "/creative_ageny_react_website/static/media/interface34.f8635a667f361e900fd837b5eac308b0.svg",
     "index.html": "/creative_ageny_react_website/index.html",
     "main.57ff03ca.css.map": "/creative_ageny_react_website/static/css/main.57ff03ca.css.map",
-    "main.a24faf60.js.map": "/creative_ageny_react_website/static/js/main.a24faf60.js.map"
+    "main.78d60e3c.js.map": "/creative_ageny_react_website/static/js/main.78d60e3c.js.map"
   },
   "entrypoints": [
     "static/css/main.57ff03ca.css",
-    "static/js/main.a24faf60.js"
+    "static/js/main.78d60e3c.js"
   ]
 }
