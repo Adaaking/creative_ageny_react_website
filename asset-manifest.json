@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/creative_ageny_react_website/static/css/main.35c82657.css",
+    "main.css": "/creative_ageny_react_website/static/css/main.57ff03ca.css",
     "main.js": "/creative_ageny_react_website/static/js/main.5b46998a.js",
     "static/media/port1.jpeg": "/creative_ageny_react_website/static/media/port1.f56364e3f9aff905b0a7.jpeg",
     "static/media/port2.jpeg": "/creative_ageny_react_website/static/media/port2.372350f026054b39dd02.jpeg",
@@ -21,11 +21,11 @@
     "static/media/microwave.svg": "/creative_ageny_react_website/static/media/microwave.c4b1a3ab2b33d16b445c010cca70c10e.svg",
     "static/media/interface34.svg": "/creative_ageny_react_website/static/media/interface34.f8635a667f361e900fd837b5eac308b0.svg",
     "index.html": "/creative_ageny_react_website/index.html",
-    "main.35c82657.css.map": "/creative_ageny_react_website/static/css/main.35c82657.css.map",
+    "main.57ff03ca.css.map": "/creative_ageny_react_website/static/css/main.57ff03ca.css.map",
     "main.5b46998a.js.map": "/creative_ageny_react_website/static/js/main.5b46998a.js.map"
   },
   "entrypoints": [
-    "static/css/main.35c82657.css",
+    "static/css/main.57ff03ca.css",
     "static/js/main.5b46998a.js"
   ]
 }
