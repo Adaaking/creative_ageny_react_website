@@ -1,0 +1,83 @@
+.header{
+    display: flex;
+    height: 94vh;
+    position: relative;
+    overflow-x: hidden;
+}
+
+.header-item{
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transition: opacity ease-in-out 1s;
+    img{
+        width: 100%;
+        height: 98%;
+        object-fit: cover;
+        
+    }
+    .header-text{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        text-align: end;
+        right: 10rem;
+        bottom: 15rem;
+        color: white;
+        animation: slidey 2s ease-in forwards;
+        .h-title{
+            font-size: 55px;
+        }
+        p{
+            text-align: end;
+        }
+    }
+}
+
+@keyframes slidey{
+    0%{
+        opacity: 0;
+        transform: translateY(-4rem);
+    }
+    100%{
+        opacity: 1;
+        transform: none;
+    }
+}
+
+.active-anim{
+    opacity: 1;
+    transform: translateX(0); 
+}
+.lastSlide{
+    transform: translateX(-100%);
+    opacity: 0;
+}
+.nextSlide{
+    transform: translateX(100%);
+    opacity: 0;
+}
+.prev,.next{
+    display: flex;
+    position: absolute;
+    top: 45%;
+    padding: 10px;
+    text-align: center;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+.prev{
+    left: 0;
+}
+.next{
+    right: 0;
+}
+.icon{
+    font-size: 50px;
+    color: white;
+}

@@ -1,0 +1,15 @@
+.clients{
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .client-span{
+        font-family: 'Anton';
+        font-size:30px;
+    }
+    .client-p{
+        margin: 10px;
+        font-size: 12px;
+    }
+}

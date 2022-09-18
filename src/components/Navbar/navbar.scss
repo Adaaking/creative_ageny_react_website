@@ -1,0 +1,44 @@
+.navbar{
+    display: flex;
+    position: absolute;
+    top: 0;
+    align-items: center;
+    img{
+        height: 4rem;
+        padding-top: 1rem;
+        margin: 0 0 0 5rem;
+    }
+    a{
+       text-decoration: none;
+       margin-left: 15%; 
+       font-size: 20px;
+       color: white;
+    }
+    a:hover{
+        opacity: 0.5;
+    }
+}
+.menu-icon{
+    display: none;
+    margin-right: 2rem;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+}
+@media only screen and (max-width:800px) {
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        padding: 0;
+        width: 100%;
+        .links{
+            display: none;
+        }
+        img{
+           margin-left: 1rem;
+        }
+    }
+    .menu-icon{
+        display: block;
+    }
+}
