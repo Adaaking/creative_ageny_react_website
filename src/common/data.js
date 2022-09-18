@@ -8,7 +8,7 @@ import port3 from './images/port3.jpeg';
 import port4 from './images/port4.jpg';
 import port5 from  './images/port5.jpg';
 import port6 from  './images/port6.jpg';
-import port7 from './images/me.jpg';
+import port7 from './images/p2.jpg';
 
 export const navbar = [
     {
